@@ -3,7 +3,7 @@
 
 <p> I’m interested in Tech-devices, programming and natural environments</p>
 <h2 align="center"> TECHNOLOGUES THAT I USE</h2>
-
+![](https://raw.githubusercontent.com/CabaCrD/CabaCrD/main/assets/Python.png)
 
 <!---
 CabaCrD/CabaCrD is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
