@@ -1,6 +1,11 @@
 - 👋 Hi, I’m @CabaCrD
 - 👀 I’m interested in Tech-devices, programming and natural environments
-- Actually, I write code in Python, JavaScript and Java, but my intention is learn more and more....
+- Actually, I write code in
+- [![github]()][1]
+- [![facebook]()][2]
+- [![linkedin]()][3]
+- [![linkedin]()][4]
+
 
 <!---
 CabaCrD/CabaCrD is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
