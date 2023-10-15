@@ -1,10 +1,6 @@
 - 👋 Hi, I’m @CabaCrD
 - 👀 I’m interested in Tech-devices, programming and natural environments
-- Actually, I write code in
-- [![github]()][1]
-- [![facebook]()][2]
-- [![linkedin]()][3]
-- [![linkedin]()][4]
+- Actually, I write code in Java, JavaScript, Python and PHP
 
 
 <!---
