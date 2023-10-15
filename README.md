@@ -11,7 +11,7 @@
 
 ![JS](https://github.com/CabaCrD/CabaCrD/assets/147181926/47aabc85-2029-4449-b6c0-edd3346bcf01) &nbsp; ![Jquery](https://github.com/CabaCrD/CabaCrD/assets/147181926/6cf1606d-cd45-42ac-b9b8-5c8f7265ec72)
 
-![PHP](https://github.com/CabaCrD/CabaCrD/assets/147181926/aa0d3fc4-eec7-490c-8013-20082a29e97f) &nbsp; ![Smarty](https://github.com/CabaCrD/CabaCrD/assets/147181926/432b17f1-54ec-44e5-a35c-7f4396ca288a)
+![PHP](https://github.com/CabaCrD/CabaCrD/assets/147181926/aa0d3fc4-eec7-490c-8013-20082a29e97f) &nbsp;![wordpress](https://github.com/CabaCrD/CabaCrD/assets/147181926/2874c816-aa61-4d3d-b063-0845c4c232b4) &nbsp; ![Smarty](https://github.com/CabaCrD/CabaCrD/assets/147181926/432b17f1-54ec-44e5-a35c-7f4396ca288a)
 
 ![html5](https://github.com/CabaCrD/CabaCrD/assets/147181926/fd3b7cd0-44db-49ec-8bc2-e321e3de2cb3) &nbsp; ![css](https://github.com/CabaCrD/CabaCrD/assets/147181926/de21d251-3803-4397-b617-55246be4d8ea) &nbsp; ![Bootstrap](https://github.com/CabaCrD/CabaCrD/assets/147181926/37b964e9-a43b-4220-ba97-45eca4a48e1f)
 
