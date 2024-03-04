@@ -15,9 +15,12 @@
 
 ![html5](https://github.com/CabaCrD/CabaCrD/assets/147181926/fd3b7cd0-44db-49ec-8bc2-e321e3de2cb3) &nbsp; ![css](https://github.com/CabaCrD/CabaCrD/assets/147181926/de21d251-3803-4397-b617-55246be4d8ea) &nbsp; ![Bootstrap](https://github.com/CabaCrD/CabaCrD/assets/147181926/37b964e9-a43b-4220-ba97-45eca4a48e1f)
 
+![Gnu-bash-logo svg](https://github.com/CabaCrD/CabaCrD/assets/147181926/d2d5e6fe-202d-4849-bbc1-78d8746877ee)
+
 ![java](https://github.com/CabaCrD/CabaCrD/assets/147181926/564f0eb7-eaa0-4b94-823c-499b0875008b) &nbsp; ![JavaFX](https://github.com/CabaCrD/CabaCrD/assets/147181926/c7efe592-7204-4393-9263-d00b372cba02)
 
 ![Git](https://github.com/CabaCrD/CabaCrD/assets/147181926/6c3991a4-17f2-4354-8f8e-e82757a24b93) &nbsp; ![Docker](https://github.com/CabaCrD/CabaCrD/assets/147181926/008c2711-34fc-4ceb-afa9-68a6b15b5a1e)
+
 
 
 
